@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **roberto98/roberto98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### 👋 Hi, I’m Roberto Di Via
+#### 🧠 Currently enrolled at MSc in Artificial Intelligence (UniGe)
+#### 💻 Graduated in Computer Science (UniGe)
+#### 📫 roby.divia@gmail.com
