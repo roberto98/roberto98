@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 #### 👋 Hi, I’m Roberto Di Via
-#### 🧠 Currently enrolled at MSc in Artificial Intelligence (UniGe)
+#### 🧠 Currently enrolled at MSc in "Data Science & Engineering - Artificial Intelligence" (UniGe)
 #### 💻 Graduated in Computer Science (UniGe)
 #### 📫 roby.divia@gmail.com
