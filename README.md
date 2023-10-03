@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 
 #### 👋 Hi, I’m Roberto Di Via
-#### 🧠 Currently enrolled at MSc in "Data Science & Engineering - Artificial Intelligence" (UniGe)
-#### 💻 Graduated in Computer Science (UniGe)
+#### 💡 Currently PhD Student @Malga-Vision, University of Genoa
+#### 🧠 Master of Science degree in "Data Science & Engineering - Artificial Intelligence" (UniGe)
+#### 💻 Bachelor degree in Computer Science (UniGe)
 #### 📫 roby.divia@gmail.com
 
 <!-- 
