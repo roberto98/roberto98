@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 💡 Currently PhD Student @Malga-Vision, University of Genoa
 #### 🧠 Master of Science degree in "Data Science & Engineering - Artificial Intelligence" (UniGe)
 #### 💻 Bachelor degree in Computer Science (UniGe)
-#### 📫 roby.divia@gmail.com
+#### 📫 roberto.divia@edu.unige.it
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto98&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
